@@ -9,3 +9,9 @@ You'll need Python though.
 ## Why you should use this app
 
 It prints "hello, world!". What else do you need?
+
+'''
+print('Hello, world!') 
+'''
+
+> Somebody: This is a great app!
